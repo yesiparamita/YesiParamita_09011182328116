@@ -2,7 +2,7 @@
   
 # Tugas3 Pratikum ariSistem Operasi
 
-# Mama  : Yesi Paramita
+# Nama  : Yesi Paramita
 # NIM   : 09011182328116
 # Kelas : SK3B
 

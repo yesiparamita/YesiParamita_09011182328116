@@ -1,6 +1,6 @@
 <dif align="center">
   
-# Tugas3 Pratikum ariSistem Operasi
+# Tugas3 Pratikum Sistem Operasi
 
 # Nama  : Yesi Paramita
 # NIM   : 09011182328116
